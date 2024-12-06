@@ -1,6 +1,6 @@
 # Play Store App Review Analysis Project: 
 
-https://github.com/TrishAcharya/Projects/blob/main/Play_store_app_review_analysis.ipynb
+https://github.com/TrishAcharya/EDA-Project/blob/main/Play_store_app_review_analysis.ipynb
 
 Project Overview:
 
